@@ -9,3 +9,5 @@ Testing a pull request for @seanxiesx
 Testing a pull request for @ianphonecom
 
 Testing a commit for @brian08 using “[FS-10565] Changed it all”
+
+Now with CircleCI Integration
