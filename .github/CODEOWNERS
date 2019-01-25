@@ -1,5 +1,25 @@
 
 
+Tasks/DecryptFileV1/*   @madhurig
+
+Tasks/DelayV1/*     @bansalaseem
+
+Tasks/DeleteFilesV1/*   @bryanmacfarlane
+
+Tasks/DeployVisualStudioTestAgentV2/*       @cltshivash
+
+Tasks/DockerV0/*    @bansalaseem
+
+Tasks/DockerV1/*    @bansalaseem
+
+Tasks/DockerComposeV0/*     @bansalaseem
+
+Tasks/DotNetCoreCLIV2/*     @sachinma
+
+Tasks/DotNetCoreInstallerV0/*   @sachinma
+
+Tasks/DownloadBuildArtifactsV0/*    @Lovakumar      @omeshp
+
 Tasks/DownloadFileshareArtifactsV0/*    @Lovakumar      @omeshp
 
 Tasks/DownloadPackageV0/*       @zackrun
