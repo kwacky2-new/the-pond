@@ -1,5 +1,25 @@
 
 
+Tasks/NpmV1/*       @zackrun
+
+Tasks/NpmAuthenticateV0/*       @zackrun
+
+Tasks/NuGetV0/*     @zackrun
+
+Tasks/NuGetCommandV2/*      @zackrun
+
+Tasks/NuGetPackagerV0/*     @zackrun
+
+Tasks/NuGetPublisherV0/*    @zackrun
+
+Tasks/NuGetToolInstallerV0/*    @zackrun
+
+Tasks/PackerBuildV0/*   @sachinma
+
+Tasks/PackerBuildV1/*   @sachinma
+
+Tasks/PowerShellV2/*    @bryanmacfarlane
+
 Tasks/PowerShellOnTargetMachinesV1/*    @kmkumaran
 
 Tasks/PowerShellOnTargetMachinesV2/*    @kmkumaran
