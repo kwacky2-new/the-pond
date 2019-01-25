@@ -1,5 +1,25 @@
 
 
+Tasks/JenkinsDownloadArtifactsV1/*      @Lovakumar      @kasubram
+
+Tasks/JenkinsQueueJobV2/*   @madhurig
+
+Tasks/KubernetesV0/*    @bansalaseem
+
+Tasks/KubernetesV1/*    @bansalaseem
+
+Tasks/ManualInterventionV8/*    @bansalaseem
+
+Tasks/MavenV2/*     @madhurig
+
+Tasks/MavenV3/*     @madhurig
+
+Tasks/MSBuildV1/*   @daveken
+
+Tasks/MysqlDeploymentOnMachineGroupV1/*     @kmkumaran      @RoshanKumarMicrosoft
+
+Tasks/NodeToolV0/*      @hross
+
 Tasks/NpmV1/*       @zackrun
 
 Tasks/NpmAuthenticateV0/*       @zackrun
