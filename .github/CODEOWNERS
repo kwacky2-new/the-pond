@@ -1,5 +1,25 @@
 
 
+Tasks/PowerShellOnTargetMachinesV1/*    @kmkumaran
+
+Tasks/PowerShellOnTargetMachinesV2/*    @kmkumaran
+
+Tasks/PowerShellOnTargetMachinesV3/*    @kmkumaran
+
+Tasks/PublishBuildArtifactsV1/*     @madhurig
+
+Tasks/PublishCodeCoverageResultsV1/*    @madhurig
+
+Tasks/PublishPipelineArtifactV0/*       @mihaif
+
+Tasks/PublishSymbolsV2/*    @arunkm
+
+Tasks/PublishTestResultsV1/*    @smalpani
+
+Tasks/PublishTestResultsV2/*    @SadagopanRajaram
+
+Tasks/PublishToAzureServiceBusV1/*      @bansalaseem
+
 Tasks/PyPIPublisherV0/*     @sachinma   @madhurig
 
 Tasks/PythonScriptV0/*      @madhurig
