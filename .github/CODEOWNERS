@@ -1,4 +1,78 @@
+Tasks/AppCenterTestV1/*   @owenniblock
 
+Tasks/ArchiveFilesV2/*  @bryanmacfarlane
+
+Tasks/AzureAppServiceManageV0/*     @kmkumaran      @SumiranAgg     @vincentdass
+
+Tasks/AzureCLIV1/*      @sachinma
+
+Tasks/AzureCloudPowerShellDeploymentV1/*    @kmkumaran
+
+Tasks/AzureFileCopyV1/*    @kmkumaran
+
+Tasks/AzureFileCopyV2/*    @kmkumaran
+
+Tasks/AzureFileCopyV3/*    @kmkumaran
+
+Tasks/AzureFunctionDeploymentV1/*    @kmkumaran      @SumiranAgg     @vincentdass
+
+Tasks/AzureFunctionOnContainerDeploymentV1/*    @kmkumaran      @SumiranAgg     @vincentdass
+
+Tasks/AzureFunctionV1/*     @bansalaseem
+
+Tasks/AzureIoTEdgeV2/*      @prativen   @michaeljqzq    @shyama1208
+
+Tasks/AzureKeyVaultV1/*     @bansalaseem
+
+Tasks/AzureMonitorAlertsV0/*    @kmkumaran
+
+Tasks/AzureMonitorV0/*      @bansalaseem
+
+Tasks/AzureMysqlDeploymentV1/*  @kmkumaran      @RoshanKumarMicrosoft
+
+Tasks/AzureNLBManagementV1/*    @kmkumaran
+
+Tasks/AzurePolicyV0/*   @bansalaseem
+
+Tasks/AzurePowerShellV2/*   @kmkumaran
+
+Tasks/AzurePowerShellV3/*   @kmkumaran
+
+Tasks/AzureResourceGroupDeploymentV2/*      @sachinma
+
+Tasks/AzureRmWebAppDeploymentV3/*   @kmkumaran    @SumiranAgg     @vincentdass
+
+Tasks/AzureRmWebAppDeploymentV4/*   @kmkumaran    @SumiranAgg     @vincentdass
+
+Tasks/AzureWebAppDeploymentV1/*   @kmkumaran    @SumiranAgg     @vincentdass
+
+Tasks/AzureWebAppOnContainerDeploymentV1/*   @kmkumaran    @SumiranAgg     @vincentdass
+
+Tasks/AzureVmssDeploymentV0/*       @sachinma
+
+Tasks/BashV3/*  @bryanmacfarlane
+
+Tasks/BatchScriptV1/*   @bryanmacfarlane
+
+Tasks/ChefV1/*      @kmkumaran
+
+Tasks/ChefKnifeV1/*     @kmkumaran
+
+Tasks/CMakeV1/*  @daveken
+
+
+
+Tasks/CocoaPodsV0/*     @madhurig
+
+Tasks/CondaEnvironmentV0/*      @madhurig
+
+Tasks/CondaEnvironmentV1/*      @madhurig
+
+Tasks/CopyFilesV2/*     @bryanmacfarlane
+
+Tasks/CopyFilesOverSSHV0/*      @madhurig
+
+Tasks/CUrlUploaderV2/*      @madhurig
 
 Tasks/DecryptFileV1/*   @madhurig
 
