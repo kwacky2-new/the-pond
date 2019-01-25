@@ -1,5 +1,35 @@
 
 
+Tasks/PyPIPublisherV0/*     @sachinma   @madhurig
+
+Tasks/PythonScriptV0/*      @madhurig
+
+Tasks/QueryWorkItemsV0/*    @bansalaseem
+
+Tasks/QuickPerfTestV1/*     @smalpani
+
+Tasks/RunDistributedTestsV1/*   @smalpani
+
+Tasks/RunJMeterLoadTestV1/*     @smalpani
+
+Tasks/RunLoadTestV1/*   @cltshivash
+
+Tasks/ServiceFabricComposeDeployV0/*    @sachinma
+
+Tasks/ServiceFabricDeployV1/*   @sachinma
+
+Tasks/ServiceFabricPowerShellV1/*   @sachinma
+
+Tasks/ServiceFabricUpdateManifestsV2/*  @sachinma
+
+Tasks/SqlAzureDacpacDeploymentV1/*      @kmkumaran
+
+Tasks/SqlDacpacDeploymentOnMachineGroupV0/*     @kmkumaran
+
+Tasks/SqlServerDacpacDeployment/*   @kmkumaran
+
+Tasks/SshV0/*   @madhurig
+
 Tasks/TwineAuthenticateV0/*     @zackrun
 
 Tasks/UniversalPackagesV0/*     @zackrun
