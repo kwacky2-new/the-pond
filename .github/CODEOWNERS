@@ -1,5 +1,31 @@
 
 
+Tasks/GruntV0/*     @hross
+
+Tasks/GulpV0/*      @hross
+
+Tasks/GulpV1/*      @hross
+
+Tasks/HelmDeployV0/*    @bansalaseem
+
+Tasks/HelmInstallerV0/*     @bansalaseem
+
+Tasks/IISWebAppDeployment/*     @kmkumaran
+
+Tasks/IISWebAppDeploymentOnMachineGroupV0/*     @kmkumaran
+
+Tasks/IISWebAppManagementOnMachineGroupV0/*     @kmkumaran
+
+Tasks/InstallAppleCertificateV2/*   @madhurig
+
+Tasks/InstallAppleProvisioningProfileV1/*   @madhurig
+
+Tasks/InstallSSHKeyV0/*     @madhurig
+
+Tasks/InvokeRestApiV1/*     @bansalaseem
+
+Tasks/JavaToolInstallerV0/*     @madhurig
+
 Tasks/JenkinsDownloadArtifactsV1/*      @Lovakumar      @kasubram
 
 Tasks/JenkinsQueueJobV2/*   @madhurig
